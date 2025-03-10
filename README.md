@@ -145,13 +145,3 @@ This project is **open-source** under the MIT License.
 
 ---
 
-✅ **This `README.md` is ready for GitHub!** 🎉  
-Upload your files & push your project to GitHub using:
-```sh
-git init
-git add .
-git commit -m "Initial commit - Identity Resolution System"
-git branch -M main
-git remote add origin <your-github-repo-url>
-git push -u origin main
-```
